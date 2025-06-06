@@ -6,12 +6,6 @@ This repository contains the **backend** codebase of the BookReview Platform pro
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Visit Live Website](insertlink/)
-
----
-
 ## 🚀 Tech Stack
 
 - **Runtime:** Node.js
@@ -130,9 +124,3 @@ The API features a global error-handling middleware that ensures consistent and 
 - Authorization errors
 - Resource not found errors
 - Database errors
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
